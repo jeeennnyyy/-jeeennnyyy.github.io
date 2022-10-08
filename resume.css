@@ -235,3 +235,15 @@ a#pdf:hover {
 .yui-gf div.first {
     width: 12.3%;
 }
+
+/* image fix  */
+.img-container{
+    width: 5em;
+    height: 5em;
+}
+
+
+.img-container img{
+    width: 100%;
+    height: 100%;
+} 
