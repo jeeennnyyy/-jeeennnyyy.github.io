@@ -18,7 +18,7 @@
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444; }
-#inner { padding: 10px 80px; margin: 80px auto; background: #f5f5f5; border: solid rgb(50, 131, 207); border-width: 8px 0 2px 0;  background-color: rgb(243, 223, 198); }
+#inner { padding: 10px 80px; margin: 80px auto; background: #f5f5f5; border: solid rgb(50, 131, 207); border-width: 8px 0 2px 0;  background-color:  #faf5ef; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid #ccc; }
 
 /* //-- header, body, footer -- */
